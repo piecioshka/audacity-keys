@@ -79,7 +79,7 @@
 	<command name="ZoomOut" key="Ctrl+-"/>
 	<command name="ZoomSel" key="Ctrl+E"/>
 	<command name="ZoomToggle" key="Shift+Z"/>
-	<command name="FitInWindow" key="Ctrl+0"/>
+	<command name="FitInWindow" key="!"/>
 	<command name="FitV" key="Shift+Ctrl+F"/>
 	<command name="CollapseAllTracks" key="Shift+Ctrl+C"/>
 	<command name="ExpandAllTracks" key="Shift+Ctrl+X"/>
