@@ -1,0 +1,405 @@
+<audacitykeyboard audacityversion="3.7.5">
+	<command name="New" key="Ctrl+N"/>
+	<command name="Open" key="Ctrl+O"/>
+	<command name="OpenFromCloud" key=""/>
+	<command name="Save" key="Ctrl+S"/>
+	<command name="SaveAs" key=""/>
+	<command name="SaveCopy" key=""/>
+	<command name="SaveToCloud" key=""/>
+	<command name="UpdateMixdown" key=""/>
+	<command name="Export" key="Shift+Ctrl+E"/>
+	<command name="ExportLabels" key=""/>
+	<command name="ExportMIDI" key=""/>
+	<command name="ImportAudio" key="Shift+Ctrl+I"/>
+	<command name="ImportMIDI" key=""/>
+	<command name="ImportLabels" key=""/>
+	<command name="ImportRaw" key=""/>
+	<command name="ShareAudio" key=""/>
+	<command name="Close" key="Ctrl+W"/>
+	<command name="Exit" key="Ctrl+Q"/>
+	<command name="Undo" key="Ctrl+Z"/>
+	<command name="Redo" key="Shift+Ctrl+Z"/>
+	<command name="Cut" key="Ctrl+X"/>
+	<command name="Delete" key="Ctrl+K"/>
+	<command name="Copy" key="Ctrl+C"/>
+	<command name="Paste" key="Ctrl+V"/>
+	<command name="Duplicate" key="Ctrl+D"/>
+	<command name="SplitCut" key="Alt+Ctrl+X"/>
+	<command name="SplitDelete" key="Alt+Ctrl+K"/>
+	<command name="Silence" key="Ctrl+L"/>
+	<command name="Trim" key="Ctrl+T"/>
+	<command name="Split" key="D"/>
+	<command name="SplitNew" key="Alt+Ctrl+I"/>
+	<command name="Join" key="Ctrl+J"/>
+	<command name="Disjoin" key="Alt+Ctrl+J"/>
+	<command name="RenameClip" key="Ctrl+F2"/>
+	<command name="ChangePitchAndSpeed" key="Shift+Ctrl+P"/>
+	<command name="PitchDown" key="Alt+Down"/>
+	<command name="PitchUp" key="Alt+Up"/>
+	<command name="RenderPitchAndSpeed" key=""/>
+	<command name="EditLabels" key=""/>
+	<command name="AddLabel" key="M"/>
+	<command name="AddLabelPlaying" key="Ctrl+."/>
+	<command name="PasteNewLabel" key="Alt+Ctrl+V"/>
+	<command name="TypeToCreateLabel" key=""/>
+	<command name="CutLabels" key="Alt+X"/>
+	<command name="DeleteLabels" key="Alt+K"/>
+	<command name="SplitCutLabels" key="Alt+Shift+X"/>
+	<command name="SplitDeleteLabels" key="Alt+Shift+K"/>
+	<command name="SilenceLabels" key="Alt+L"/>
+	<command name="CopyLabels" key="Alt+Shift+C"/>
+	<command name="SplitLabels" key="Alt+I"/>
+	<command name="JoinLabels" key="Alt+J"/>
+	<command name="DisjoinLabels" key="Alt+Shift+J"/>
+	<command name="EditMetaData" key=""/>
+	<command name="Preferences" key="Ctrl+,"/>
+	<command name="SelectAll" key="Ctrl+A"/>
+	<command name="SelectNone" key="Shift+Ctrl+A"/>
+	<command name="SelAllTracks" key="Shift+Ctrl+K"/>
+	<command name="SelSyncLockTracks" key="Shift+Ctrl+Y"/>
+	<command name="SetLeftSelection" key="["/>
+	<command name="SetRightSelection" key="]"/>
+	<command name="SelTrackStartToCursor" key="Shift+J"/>
+	<command name="SelCursorToTrackEnd" key="Shift+K"/>
+	<command name="SelTrackStartToEnd" key=""/>
+	<command name="SelSave" key=""/>
+	<command name="SelRestore" key=""/>
+	<command name="ToggleSpectralSelection" key="Q"/>
+	<command name="NextHigherPeakFrequency" key=""/>
+	<command name="NextLowerPeakFrequency" key=""/>
+	<command name="SelPrevClipBoundaryToCursor" key=""/>
+	<command name="SelCursorToNextClipBoundary" key=""/>
+	<command name="SelPrevClip" key="Alt+,"/>
+	<command name="SelNextClip" key="Alt+."/>
+	<command name="SelCursorStoredCursor" key=""/>
+	<command name="StoreCursorPosition" key=""/>
+	<command name="ZeroCross" key="Z"/>
+	<command name="ZoomIn" key="Ctrl+="/>
+	<command name="ZoomNormal" key=""/>
+	<command name="ZoomOut" key="Ctrl+-"/>
+	<command name="ZoomSel" key="Ctrl+E"/>
+	<command name="ZoomToggle" key="Shift+Z"/>
+	<command name="FitInWindow" key="Ctrl+0"/>
+	<command name="FitV" key="Shift+Ctrl+F"/>
+	<command name="CollapseAllTracks" key="Shift+Ctrl+C"/>
+	<command name="ExpandAllTracks" key="Shift+Ctrl+X"/>
+	<command name="SkipSelStart" key="Ctrl+["/>
+	<command name="SkipSelEnd" key="Ctrl+]"/>
+	<command name="UndoHistory" key=""/>
+	<command name="MixerBoard" key=""/>
+	<command name="ResetToolbars" key=""/>
+	<command name="ShowTransportTB" key=""/>
+	<command name="ShowToolsTB" key=""/>
+	<command name="ShowRecordMeterTB" key=""/>
+	<command name="ShowPlayMeterTB" key=""/>
+	<command name="ShowEditTB" key=""/>
+	<command name="ShowCutCopyPasteTB" key=""/>
+	<command name="ShowTranscriptionTB" key=""/>
+	<command name="ShowDeviceTB" key=""/>
+	<command name="ShowSelectionTB" key=""/>
+	<command name="ShowTimeTB" key=""/>
+	<command name="ShowSpectralSelectionTB" key=""/>
+	<command name="ShareAudioTB" key=""/>
+	<command name="ShowAudioSetupTB" key=""/>
+	<command name="ShowSnappingTB" key=""/>
+	<command name="ShowTimeSignatureTB" key=""/>
+	<command name="MinutesAndSeconds" key=""/>
+	<command name="BeatsAndMeasures" key=""/>
+	<command name="ShowExtraMenus" key=""/>
+	<command name="ShowClipping" key=""/>
+	<command name="ShowRMS" key=""/>
+	<command name="DefaultPlayStop" key=""/>
+	<command name="PlayStopSelect" key="Space"/>
+	<command name="OncePlayStop" key=""/>
+	<command name="Pause" key="P"/>
+	<command name="Record1stChoice" key="R"/>
+	<command name="Record2ndChoice" key="Shift+R"/>
+	<command name="TimerRecord" key="Shift+T"/>
+	<command name="PunchAndRoll" key="Shift+D"/>
+	<command name="Scrub" key=""/>
+	<command name="Seek" key=""/>
+	<command name="ToggleScrubRuler" key=""/>
+	<command name="CursSelStart" key=""/>
+	<command name="CursSelEnd" key=""/>
+	<command name="CursTrackStart" key="J"/>
+	<command name="CursTrackEnd" key="K"/>
+	<command name="CursPrevClipBoundary" key=""/>
+	<command name="CursNextClipBoundary" key=""/>
+	<command name="CursProjectStart" key="Home"/>
+	<command name="CursProjectEnd" key="End"/>
+	<command name="TogglePlayRegion" key="L"/>
+	<command name="ClearPlayRegion" key="Alt+Shift+L"/>
+	<command name="SetPlayRegionToSelection" key="Shift+L"/>
+	<command name="SetPlayRegionIn" key=""/>
+	<command name="SetPlayRegionOut" key=""/>
+	<command name="RescanDevices" key=""/>
+	<command name="SoundActivationLevel" key=""/>
+	<command name="SoundActivation" key=""/>
+	<command name="PinnedHead" key=""/>
+	<command name="Overdub" key=""/>
+	<command name="SWPlaythrough" key=""/>
+	<command name="NewMonoTrack" key="Shift+Ctrl+N"/>
+	<command name="NewStereoTrack" key=""/>
+	<command name="NewLabelTrack" key=""/>
+	<command name="NewTimeTrack" key=""/>
+	<command name="Stereo to Mono" key=""/>
+	<command name="MixAndRender" key=""/>
+	<command name="MixAndRenderToNewTrack" key="Shift+Ctrl+M"/>
+	<command name="Resample" key=""/>
+	<command name="RemoveTracks" key=""/>
+	<command name="MuteAllTracks" key="Ctrl+U"/>
+	<command name="UnmuteAllTracks" key="Shift+Ctrl+U"/>
+	<command name="MuteTracks" key="Alt+Ctrl+U"/>
+	<command name="UnmuteTracks" key="Alt+Shift+Ctrl+U"/>
+	<command name="PanLeft" key=""/>
+	<command name="PanRight" key=""/>
+	<command name="PanCenter" key=""/>
+	<command name="Align_EndToEnd" key=""/>
+	<command name="Align_Together" key=""/>
+	<command name="Align_StartToZero" key=""/>
+	<command name="Align_StartToSelStart" key=""/>
+	<command name="Align_StartToSelEnd" key=""/>
+	<command name="Align_EndToSelStart" key=""/>
+	<command name="Align_EndToSelEnd" key=""/>
+	<command name="MoveSelectionWithTracks" key=""/>
+	<command name="SortByTime" key=""/>
+	<command name="SortByName" key=""/>
+	<command name="SyncLock" key=""/>
+	<command name="ManageGenerators" key=""/>
+	<command name="RepeatLastGenerator" key=""/>
+	<command name="Effect_Audacity_Audacity_Chirp_Built-in Effect: Chirp" key=""/>
+	<command name="Effect_Audacity_Audacity_DTMF Tones_Built-in Effect: DTMF Tones" key=""/>
+	<command name="Effect_Audacity_Audacity_Noise_Built-in Effect: Noise" key=""/>
+	<command name="Effect_Nyquist_David R.Sky_Pluck_/Applications/Audacity.app/Contents/plug-ins/pluck.ny" key=""/>
+	<command name="Effect_Nyquist_Dominic Mazzoni, David R. Sky and Steve Daulton_Rhythm Track_/Applications/Audacity.app/Contents/plug-ins/rhythmtrack.ny" key=""/>
+	<command name="Effect_Nyquist_Steven Jones_Risset Drum_/Applications/Audacity.app/Contents/plug-ins/rissetdrum.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Silence_Built-in Effect: Silence" key=""/>
+	<command name="Effect_Audacity_Audacity_Tone_Built-in Effect: Tone" key=""/>
+	<command name="ManageEffects" key=""/>
+	<command name="AddRealtimeEffects" key="E"/>
+	<command name="GetMoreEffects" key=""/>
+	<command name="RepeatLastEffect" key="Ctrl+R"/>
+	<command name="Effect_Audacity_Audacity_Amplify_Built-in Effect: Amplify" key=""/>
+	<command name="Effect_Audacity_Audacity_Auto Duck_Built-in Effect: Auto Duck" key=""/>
+	<command name="Effect_Audacity_Audacity_Compressor_Built-in Effect: Compressor" key=""/>
+	<command name="Effect_Audacity_Audacity_Limiter_Built-in Effect: Limiter" key=""/>
+	<command name="Effect_Audacity_Audacity_Loudness Normalization_Built-in Effect: Loudness Normalization" key=""/>
+	<command name="Effect_Audacity_Audacity_Normalize_Built-in Effect: Normalize" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Adjustable Fade_/Applications/Audacity.app/Contents/plug-ins/adjustable-fade.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Crossfade Clips_/Applications/Audacity.app/Contents/plug-ins/crossfadeclips.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Crossfade Tracks_/Applications/Audacity.app/Contents/plug-ins/crossfadetracks.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Fade In_Built-in Effect: Fade In" key=""/>
+	<command name="Effect_Audacity_Audacity_Fade Out_Built-in Effect: Fade Out" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Studio Fade Out_/Applications/Audacity.app/Contents/plug-ins/StudioFadeOut.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Change Pitch_Built-in Effect: Change Pitch" key=""/>
+	<command name="Effect_Audacity_Audacity_Change Speed and Pitch_Built-in Effect: Change Speed and Pitch" key=""/>
+	<command name="Effect_Audacity_Audacity_Change Tempo_Built-in Effect: Change Tempo" key=""/>
+	<command name="Effect_Audacity_Audacity_Paulstretch_Built-in Effect: Paulstretch" key=""/>
+	<command name="Effect_Audacity_Audacity_Sliding Stretch_Built-in Effect: Sliding Stretch" key=""/>
+	<command name="Effect_Audacity_Audacity_Bass and Treble_Built-in Effect: Bass and Treble" key=""/>
+	<command name="Effect_Audacity_Audacity_Filter Curve_Built-in Effect: Filter Curve" key=""/>
+	<command name="Effect_Audacity_Audacity_Graphic EQ_Built-in Effect: Graphic EQ" key=""/>
+	<command name="Effect_Nyquist_Dominic Mazzoni_High-Pass Filter_/Applications/Audacity.app/Contents/plug-ins/highpass.ny" key=""/>
+	<command name="Effect_Nyquist_Dominic Mazzoni_Low-Pass Filter_/Applications/Audacity.app/Contents/plug-ins/lowpass.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton and Bill Wharrie_Notch Filter_/Applications/Audacity.app/Contents/plug-ins/notch.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Shelf Filter_/Applications/Audacity.app/Contents/plug-ins/ShelfFilter.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Click Removal_Built-in Effect: Click Removal" key=""/>
+	<command name="Effect_Nyquist_Benjamin Schwartz and Steve Daulton_Clip Fix_/Applications/Audacity.app/Contents/plug-ins/clipfix.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Noise Gate_/Applications/Audacity.app/Contents/plug-ins/noisegate.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Noise Reduction_Built-in Effect: Noise Reduction" key=""/>
+	<command name="Effect_Audacity_Audacity_Repair_Built-in Effect: Repair" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Delay_/Applications/Audacity.app/Contents/plug-ins/delay.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Echo_Built-in Effect: Echo" key=""/>
+	<command name="Effect_Audacity_Audacity_Reverb_Built-in Effect: Reverb" key=""/>
+	<command name="Effect_Audacity_Audacity_Distortion_Built-in Effect: Distortion" key=""/>
+	<command name="Effect_Audacity_Audacity_Phaser_Built-in Effect: Phaser" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Tremolo_/Applications/Audacity.app/Contents/plug-ins/tremolo.ny" key=""/>
+	<command name="Effect_Nyquist_Edgar-RFT and Steve Daulton_Vocoder_/Applications/Audacity.app/Contents/plug-ins/vocoder.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Wahwah_Built-in Effect: Wahwah" key=""/>
+	<command name="Effect_Audacity_Audacity_Invert_Built-in Effect: Invert" key=""/>
+	<command name="Effect_Audacity_Audacity_Repeat_Built-in Effect: Repeat" key=""/>
+	<command name="Effect_Audacity_Audacity_Reverse_Built-in Effect: Reverse" key=""/>
+	<command name="Effect_Audacity_Audacity_Truncate Silence_Built-in Effect: Truncate Silence" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Spectral Delete_/Applications/Audacity.app/Contents/plug-ins/spectral-delete.ny" key=""/>
+	<command name="Effect_Nyquist_Paul Licameli_Spectral Edit Multi Tool_/Applications/Audacity.app/Contents/plug-ins/SpectralEditMulti.ny" key=""/>
+	<command name="Effect_Nyquist_Paul Licameli_Spectral Edit Parametric EQ_/Applications/Audacity.app/Contents/plug-ins/SpectralEditParametricEQ.ny" key=""/>
+	<command name="Effect_Nyquist_Paul Licameli_Spectral Edit Shelves_/Applications/Audacity.app/Contents/plug-ins/SpectralEditShelves.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Classic Filters_Built-in Effect: Classic Filters" key=""/>
+	<command name="Effect_Audacity_Audacity_Legacy Compressor_Built-in Effect: Legacy Compressor" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Legacy Limiter_/Applications/Audacity.app/Contents/plug-ins/legacy-limiter.ny" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUBandpass_appl/aufx/bpas/Apple: AUBandpass" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUDelay_appl/aufx/dely/Apple: AUDelay" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUDistortion_appl/aufx/dist/Apple: AUDistortion" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUDynamicsProcessor_appl/aufx/dcmp/Apple: AUDynamicsProcessor" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUFilter_appl/aufx/filt/Apple: AUFilter" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUGraphicEQ_appl/aufx/greq/Apple: AUGraphicEQ" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUHighShelfFilter_appl/aufx/hshf/Apple: AUHighShelfFilter" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUHipass_appl/aufx/hpas/Apple: AUHipass" key=""/>
+	<command name="Effect_AudioUnit_Apple_AULowShelfFilter_appl/aufx/lshf/Apple: AULowShelfFilter" key=""/>
+	<command name="Effect_AudioUnit_Apple_AULowpass_appl/aufx/lpas/Apple: AULowpass" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUMatrixReverb_appl/aufx/mrev/Apple: AUMatrixReverb" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUMultibandCompressor_appl/aufx/mcmp/Apple: AUMultibandCompressor" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUNBandEQ_appl/aufx/nbeq/Apple: AUNBandEQ" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUNetSend_appl/aufx/nsnd/Apple: AUNetSend" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUNewPitch_appl/aufx/nutp/Apple: AUNewPitch" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUParametricEQ_appl/aufx/pmeq/Apple: AUParametricEQ" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUPeakLimiter_appl/aufx/lmtr/Apple: AUPeakLimiter" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUPitch_appl/aufx/tmpt/Apple: AUPitch" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUReverb2_appl/aufx/rvb2/Apple: AUReverb2" key=""/>
+	<command name="Effect_AudioUnit_Apple_AURogerBeep_appl/aufx/rogr/Apple: AURogerBeep" key=""/>
+	<command name="Effect_AudioUnit_Apple_AURoundTripAAC_appl/aufx/raac/Apple: AURoundTripAAC" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUSampleDelay_appl/aufx/sdly/Apple: AUSampleDelay" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUSoundFieldPanner_appl/aupn/ambi/Apple: AUSoundFieldPanner" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUSpatialMixer_appl/aumx/3dem/Apple: AUSpatialMixer" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUSphericalHeadPanner_appl/aupn/sphr/Apple: AUSphericalHeadPanner" key=""/>
+	<command name="Effect_AudioUnit_Apple_AUVectorPanner_appl/aupn/vbas/Apple: AUVectorPanner" key=""/>
+	<command name="Effect_AudioUnit_Apple_HRTFPanner_appl/aupn/hrtf/Apple: HRTFPanner" key=""/>
+	<command name="ManageAnalyzers" key=""/>
+	<command name="RepeatLastAnalyzer" key=""/>
+	<command name="ContrastAnalyser" key="Shift+Ctrl+T"/>
+	<command name="PlotSpectrum" key=""/>
+	<command name="Effect_Nyquist_Audacity_Beat Finder_/Applications/Audacity.app/Contents/plug-ins/beat.ny" key=""/>
+	<command name="Effect_Audacity_Audacity_Find Clipping_Built-in Effect: Find Clipping" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Label Sounds_/Applications/Audacity.app/Contents/plug-ins/label-sounds.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Measure RMS_/Applications/Audacity.app/Contents/plug-ins/rms.ny" key=""/>
+	<command name="ManageTools" key=""/>
+	<command name="RepeatLastTool" key=""/>
+	<command name="ManageMacros" key=""/>
+	<command name="ApplyMacrosPalette" key=""/>
+	<command name="Macro_FadeEnds" key=""/>
+	<command name="Macro_MP3Conversion" key=""/>
+	<command name="ConfigReset" key=""/>
+	<command name="Benchmark" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Nyquist Plugin Installer_/Applications/Audacity.app/Contents/plug-ins/nyquist-plug-in-installer.ny" key=""/>
+	<command name="Effect_Nyquist_Audacity_Nyquist Prompt_Nyquist Prompt" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Regular Interval Labels_/Applications/Audacity.app/Contents/plug-ins/equalabel.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Sample Data Export_/Applications/Audacity.app/Contents/plug-ins/sample-data-export.ny" key=""/>
+	<command name="Effect_Nyquist_Steve Daulton_Sample Data Import_/Applications/Audacity.app/Contents/plug-ins/sample-data-import.ny" key=""/>
+	<command name="Play" key=""/>
+	<command name="Stop" key=""/>
+	<command name="PlayOneSec" key="1"/>
+	<command name="PlayToSelection" key="B"/>
+	<command name="PlayBeforeSelectionStart" key="Shift+F5"/>
+	<command name="PlayAfterSelectionStart" key="Shift+F6"/>
+	<command name="PlayBeforeSelectionEnd" key="Shift+F7"/>
+	<command name="PlayAfterSelectionEnd" key="Shift+F8"/>
+	<command name="PlayBeforeAndAfterSelectionStart" key="Shift+Ctrl+F5"/>
+	<command name="PlayBeforeAndAfterSelectionEnd" key="Shift+Ctrl+F7"/>
+	<command name="PlayCutPreview" key="C"/>
+	<command name="KeyboardScrubBackwards" key="U"/>
+	<command name="KeyboardScrubForwards" key="I"/>
+	<command name="SelectTool" key="F1"/>
+	<command name="EnvelopeTool" key="F2"/>
+	<command name="DrawTool" key="F3"/>
+	<command name="MultiTool" key="F6"/>
+	<command name="PrevTool" key=""/>
+	<command name="NextTool" key=""/>
+	<command name="OutputGain" key=""/>
+	<command name="OutputGainInc" key=""/>
+	<command name="OutputGainDec" key=""/>
+	<command name="InputGain" key=""/>
+	<command name="InputGainInc" key=""/>
+	<command name="InputGainDec" key=""/>
+	<command name="DeleteKey" key="Backspace"/>
+	<command name="DeleteKey2" key="Delete"/>
+	<command name="ClipLeft" key=""/>
+	<command name="ClipRight" key=""/>
+	<command name="PlayAtSpeed" key=""/>
+	<command name="PlayAtSpeedCutPreview" key=""/>
+	<command name="PlayAtSpeedLooped" key=""/>
+	<command name="PlaySpeedDec" key=""/>
+	<command name="PlaySpeedInc" key=""/>
+	<command name="SetPlaySpeed" key=""/>
+	<command name="SeekLeftShort" key="Left"/>
+	<command name="SeekRightShort" key="Right"/>
+	<command name="SeekLeftLong" key="Shift+Left"/>
+	<command name="SeekRightLong" key="Shift+Right"/>
+	<command name="InputDevice" key="Shift+I"/>
+	<command name="OutputDevice" key="Shift+O"/>
+	<command name="AudioHost" key="Shift+H"/>
+	<command name="InputChannels" key="Shift+N"/>
+	<command name="SnapToOff" key=""/>
+	<command name="SnapToNearest" key=""/>
+	<command name="SnapToPrior" key=""/>
+	<command name="SelStart" key="Shift+Home"/>
+	<command name="SelEnd" key="Shift+End"/>
+	<command name="SelExtLeft" key="Shift+Left"/>
+	<command name="SelExtRight" key="Shift+Right"/>
+	<command name="SelSetExtLeft" key=""/>
+	<command name="SelSetExtRight" key=""/>
+	<command name="SelCntrLeft" key="Shift+Ctrl+Right"/>
+	<command name="SelCntrRight" key="Shift+Ctrl+Left"/>
+	<command name="MoveToPrevLabel" key="Alt+Left"/>
+	<command name="MoveToNextLabel" key="Alt+Right"/>
+	<command name="ExportMp3" key=""/>
+	<command name="ExportWav" key=""/>
+	<command name="ExportOgg" key=""/>
+	<command name="ExportFLAC" key=""/>
+	<command name="ExportSel" key=""/>
+	<command name="PrevWindow" key="Alt+Shift+F6"/>
+	<command name="NextWindow" key="Alt+F6"/>
+	<command name="PrevFrame" key="Shift+Ctrl+F6"/>
+	<command name="NextFrame" key="Ctrl+F6"/>
+	<command name="PrevTrack" key="Up"/>
+	<command name="NextTrack" key="Down"/>
+	<command name="FirstTrack" key="Ctrl+Home"/>
+	<command name="LastTrack" key="Ctrl+End"/>
+	<command name="ShiftUp" key="Shift+Up"/>
+	<command name="ShiftDown" key="Shift+Down"/>
+	<command name="Toggle" key="Return"/>
+	<command name="ToggleAlt" key="NUMPAD_ENTER"/>
+	<command name="CursorLeft" key="Left"/>
+	<command name="CursorRight" key="Right"/>
+	<command name="CursorShortJumpLeft" key=","/>
+	<command name="CursorShortJumpRight" key="."/>
+	<command name="CursorLongJumpLeft" key="Shift+,"/>
+	<command name="CursorLongJumpRight" key="Shift+."/>
+	<command name="TrackPan" key="Shift+P"/>
+	<command name="TrackPanLeft" key="Alt+Shift+Left"/>
+	<command name="TrackPanRight" key="Alt+Shift+Right"/>
+	<command name="TrackGain" key="Shift+G"/>
+	<command name="TrackGainInc" key="Alt+Shift+Up"/>
+	<command name="TrackGainDec" key="Alt+Shift+Down"/>
+	<command name="TrackMenu" key="Shift+M"/>
+	<command name="TrackMute" key="Shift+U"/>
+	<command name="TrackSolo" key="Shift+S"/>
+	<command name="TrackClose" key="Shift+C"/>
+	<command name="TrackMoveUp" key=""/>
+	<command name="TrackMoveDown" key=""/>
+	<command name="TrackMoveTop" key=""/>
+	<command name="TrackMoveBottom" key=""/>
+	<command name="SelectTime" key=""/>
+	<command name="SelectFrequencies" key=""/>
+	<command name="SelectTracks" key=""/>
+	<command name="SetTrackStatus" key=""/>
+	<command name="SetTrackAudio" key=""/>
+	<command name="SetTrackVisuals" key=""/>
+	<command name="GetPreference" key=""/>
+	<command name="SetPreference" key=""/>
+	<command name="SetClip" key=""/>
+	<command name="SetEnvelope" key=""/>
+	<command name="SetLabel" key=""/>
+	<command name="SetProject" key=""/>
+	<command name="Select" key=""/>
+	<command name="SetTrack" key=""/>
+	<command name="GetInfo" key=""/>
+	<command name="Message" key=""/>
+	<command name="Help" key=""/>
+	<command name="Import2" key=""/>
+	<command name="Export2" key=""/>
+	<command name="OpenProject2" key=""/>
+	<command name="SaveProject2" key=""/>
+	<command name="Drag" key=""/>
+	<command name="CompareAudio" key=""/>
+	<command name="FullScreenOnOff" key="Ctrl+/"/>
+	<command name="QuickHelp" key=""/>
+	<command name="Manual" key=""/>
+	<command name="AudacitySupport" key=""/>
+	<command name="DeviceInfo" key=""/>
+	<command name="MidiDeviceInfo" key=""/>
+	<command name="Log" key=""/>
+	<command name="CrashReport" key=""/>
+	<command name="LinkAccount" key=""/>
+	<command name="Updates" key=""/>
+	<command name="About" key=""/>
+</audacitykeyboard>
